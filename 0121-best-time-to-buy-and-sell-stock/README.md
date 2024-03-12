@@ -1,7 +1,8 @@
 <h2>My Approach to solve</h2>
-1. First we took the first element of the vector as min value cause we want to subtract min from max
-2. Then initially took the 0 as max value
-3. Iterating through the vector elements, if the next value is lower we take that as min and then in next iteration look for against that value.
+1. First we took the first element of the vector as min value cause we want to subtract min from max.
+2. Then initially took the 0 as max value.
+3. Iterating through the vector elements, if the next value is lower we take that as min and then in next iteration look for 
+   against that value.
 4. If the next value is larger then subtract the min from the current and update the max with the result.
 
 
