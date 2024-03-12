@@ -1,3 +1,10 @@
+<h2>My Approach to solve</h2>
+1. First we took the first element of the vector as min value cause we want to subtract min from max
+2. Then initially took the 0 as max value
+3. Iterating through the vector elements, if the next value is lower we take that as min and then in next iteration look for against that value.
+4. If the next value is larger then subtract the min from the current and update the max with the result.
+
+
 <h2><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">121. Best Time to Buy and Sell Stock</a></h2><h3>Easy</h3><hr><div><p>You are given an array <code>prices</code> where <code>prices[i]</code> is the price of a given stock on the <code>i<sup>th</sup></code> day.</p>
 
 <p>You want to maximize your profit by choosing a <strong>single day</strong> to buy one stock and choosing a <strong>different day in the future</strong> to sell that stock.</p>
