@@ -4,6 +4,8 @@
 3. Iterating through the vector elements, if the next value is lower we take that as min and then in next iteration look for 
    against that value.
 4. If the next value is larger then subtract the min from the current and update the max with the result.
+![WhatsApp Image 2024-03-12 at 21 16 50_ea07e024](https://github.com/arooba-zaman1211/30-Days-Of-LeetCode/assets/124719983/dbea1d72-b55d-4e83-81c0-7b04e22b4f64)
+
 
 
 <h2><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">121. Best Time to Buy and Sell Stock</a></h2><h3>Easy</h3><hr><div><p>You are given an array <code>prices</code> where <code>prices[i]</code> is the price of a given stock on the <code>i<sup>th</sup></code> day.</p>
