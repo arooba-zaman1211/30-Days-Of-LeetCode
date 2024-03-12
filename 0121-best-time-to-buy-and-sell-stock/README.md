@@ -5,7 +5,7 @@
    against that value.
 4. If the next value is larger then subtract the min from the current and update the max with the result.
 
-<h3>Dry Running</h3>
+<h3>Dry Run</h3>
 (https://github.com/arooba-zaman1211/30-Days-Of-LeetCode/assets/124719983/dbea1d72-b55d-4e83-81c0-7b04e22b4f64)
 
 
