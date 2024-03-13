@@ -1,3 +1,12 @@
+<h2>My Approach to solve the problem</h2>
+<ol>
+	<li>First I calculated the size of input array to set the value of n.</li>
+	<li>Then i pushed the [0 , n] numbers inside an array.</li>
+	<li>Then i traversed the array element by element and checked if there way any number that wasn't found in the input array.</li>
+	<li>If there was no such number then returned -1 </li>
+	<li>In case of finding such a number, that number is returned eventually</li>
+</ol>
+
 <h2><a href="https://leetcode.com/problems/missing-number/">268. Missing Number</a></h2><h3>Easy</h3><hr><div><p>Given an array <code>nums</code> containing <code>n</code> distinct numbers in the range <code>[0, n]</code>, return <em>the only number in the range that is missing from the array.</em></p>
 
 <p>&nbsp;</p>
